@@ -1,0 +1,166 @@
+/* * {
+    margin: 0;
+    padding: 0;
+    max-width: 100%;
+} */
+
+
+/* .navbar {
+    
+}
+
+nav div {
+    display: flex;
+    width: 100%;
+    margin: 0 auto;
+    text-decoration: none;
+    
+}
+
+
+nav a {
+    font-family: "Carter One", cursive;
+    text-decoration: none;
+    text-align: center;
+    color: #fff;
+    padding: 10px;;
+    display: block;
+    max-width: 100%;
+    flex-grow: 1;
+}
+
+nav a:hover {
+    background-color: #555;
+}
+
+form {
+    width: 100px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    flex-grow: 1;
+    justify-content: center;
+}
+
+.searchbar {
+    height: 35px;
+    width: 300px;
+    background-color: #fce8e8;
+    text-align: center;
+    font-family: "Carter One";
+}
+
+.searchbutton {
+    height: 35px;
+    width: 50px;
+    background-color: red;
+}
+
+button {
+    display: inline-block;
+   
+}
+
+#search {
+    max-width: 35%;
+    height: auto;
+    display: inline-block;
+     
+    
+}
+
+#puzzhead {
+    background-color: #f08080;
+    max-width: 5%;
+    height: auto;
+    top: 50px;
+    position: absolute;
+    margin-left: auto;
+
+}
+
+#cart {
+    max-width: 10%;
+    height: auto;
+    background-color: #f08080;
+    justify-content: right;    
+} */
+
+/* header {
+    
+    background-color: #f08080;
+    text-align: center;
+    max-width: 100%;
+}
+header h1{
+    font-family: "Carter One", cursive;
+    font-size: 46px;
+    text-shadow: 2px 2px white;
+    max-width: 100%;
+    width: 440px;
+    text-align: center;
+    position: relative;
+    margin: 0;
+    padding: 0 15px;
+    color: red; */
+    /* background-color: rgb(201, 199, 199);
+    border-style: solid;
+    border-color: red;
+    border-width: 10px;
+    border-radius: 12px; */
+    
+}
+
+/* .banner {
+        background-image: url(pieces-of-the-puzzle.jpg);
+        height: 450px;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+  
+}
+
+.banner .welcome {
+    font-family: "Carter One", cursive;
+    font-size: 48px;
+    position: absolute;
+    top: 45%;
+    background-color: #00ffff;
+}
+
+main {
+    padding: 10px;
+    background-color:  #fce8e8;
+}
+
+main h2{
+    font-family: "Carter One";
+    text-align: center;
+}
+
+main p {
+    font-family: "Amiko";
+    text-align: center;
+}
+
+main h3 {
+    font-family: "Carter One";
+    text-align: center;
+}
+
+main ul {
+    font-family: "Amiko";
+    text-align: center;
+}
+
+footer {
+    background: #f08080;
+
+}
+
+footer p {
+    font-family: "Carter One", cursive;
+    color: white;
+    padding: 25px;
+    text-align: center;
+} */
